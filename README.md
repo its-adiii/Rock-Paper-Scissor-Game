@@ -1,2 +1,2 @@
-# Rock-Paper-Scissor-Game
-Rock-Paper-Scissor Game using Python
+# Tkinter GUI Calculator 
+ Tkinter GUI Calculator using Python
